@@ -22,7 +22,7 @@ fetch("data.json")
 
     
     data.forEach(countary => {
-            const All = countary.All ? `<p>Hope : <span>${countary.All}</span></p>`: ""
+           
         container_countary.innerHTML += `
                 <div class="countary">
                 <div class="image">
@@ -33,7 +33,6 @@ fetch("data.json")
                     <p>Poplution : <span>${countary.population}</span></p>
                     <p>Region : <span>${countary.region}</span></p>
                     <p>Captial : <span>${countary.capital}</span></p>
-                    ${All}
                     <a href = "countory.html?id=${countary.area}" class="btn_go">go to details</a>
                 </div>
             </div>
