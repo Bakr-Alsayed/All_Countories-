@@ -1,6 +1,6 @@
 [
     {
-    "name": "Palestine, حره",
+    "name": "Palestine",
     "topLevelDomain": [".ps"],
     "alpha2Code": "PS",
     "alpha3Code": "PSE",
@@ -16,9 +16,7 @@
     "gini": 33.7,
     "timezones": ["UTC+02:00"],
     "borders": ["", "EGY", "JOR"],
-    "nativeName": "فلسطين حره ان شاء الله",
     "numericCode": "275",
-    "All":"حره ان شاء الله",
     "flags": {
       "svg": "https://flagcdn.com/ps.svg",
       "png": "https://flagcdn.com/w320/ps.png"
